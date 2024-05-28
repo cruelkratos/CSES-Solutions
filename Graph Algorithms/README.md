@@ -1,3 +1,5 @@
+# Graph Algorithms - CSES
+
 These are my solutions and approaches to the graph problems in CSES
 
 - If you have an idea which makes the implementation much easier/have a better approach please create a pull request
