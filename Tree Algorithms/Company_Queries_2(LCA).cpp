@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>
-#include <functional>
 #define ll long long
 #define vll vector<ll int>
 #define fastfast ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
